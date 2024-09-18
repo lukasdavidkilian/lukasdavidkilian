@@ -2,7 +2,7 @@
 
 I'm currently a Digital Business student at the Ravensburg-Weingarten University, driven by combining technology and business to improve the lives of as many people as possible.
 
-I've used my skills in the health and fitness space to develop mealie, a user-driven meal recommendation and food tracking app. 
+I've used my skills in the health and fitness space to develop [mealie](https://www.mealie.de), a user-driven meal recommendation and food tracking app. 
 
 Feel free to explore my previous work or message me to chat about mealie!
 
