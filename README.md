@@ -4,14 +4,14 @@ I'm currently a Digital Business student at the Ravensburg-Weingarten University
 
 ### Experience
 
-- Founder & Developer - mealie
-- Solutions Architect Intern, Serverless Specialist - Amazon Web Services
-- Software Engineering Bachelor Student - Mercedes-Benz
-- Software Engineering Intern - Mercedes-Benz
-- Business Intern - Amazon
-- Working Student - Soluware
-- Undergraduate Teaching Assistant - Ravensburg-Weingarten University
-- Intern - Claas
+- Founder & Developer - [mealie](https://www.mealie.de)
+- Solutions Architect Intern, Serverless Specialist - [Amazon Web Services](https://aws.amazon.com/)
+- Software Engineering Bachelor Student - [Mercedes-Benz](https://www.mercedes-benz.com/en/)
+- Software Engineering Intern - [Mercedes-Benz](https://www.mercedes-benz.com/en/)
+- Business Intern - [Amazon](https://www.amazon.com)
+- Working Student - [Soluware](https://soluware.de)
+- Undergraduate Teaching Assistant - [Ravensburg-Weingarten University](https://www.rwu.de/en)
+- Intern - [Claas](https://www.claas.com/)
 
 <!--
 **lukasdavidkilian/lukasdavidkilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
