@@ -4,7 +4,7 @@ I'm currently a Digital Business student at the Ravensburg-Weingarten University
 
 I've used my skills in the health and fitness space to develop mealie, a user-driven meal recommendation and food tracking app. 
 
-Feel free to browse my previous work or message me to chat about mealie!
+Feel free to explore my previous work or message me to chat about mealie!
 
 Check out my website at [ludaki.com](https://www.ludaki.com)
 
