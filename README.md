@@ -1,5 +1,7 @@
 ## Hi there, I'm Lukas Kilian! 👋
 
+I'm currently a Digital Business student at the Ravensburg-Weingarten University, driven by combining technology and business to improve people's lives
+
 <!--
 **lukasdavidkilian/lukasdavidkilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
