@@ -2,7 +2,7 @@
 
 I'm currently a Digital Business student at the Ravensburg-Weingarten University, driven by combining technology and business to improve the lives of as many people as possible.
 
-Check out my website at ludaki.com
+Check out my website at [ludaki.com](https://www.ludaki.com)
 
 ### Experience
 
