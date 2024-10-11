@@ -12,7 +12,7 @@ Check out my website at [ludaki.com](https://www.ludaki.com) to learn more about
 
 - Founder & Developer - [mealie](https://www.mealie.de)
 - Solutions Architect Intern, Serverless Specialist - [Amazon Web Services](https://aws.amazon.com/)
-- Software Engineering Bachelor Student - [Mercedes-Benz](https://www.mercedes-benz.com/en/)
+- Software Engineering, Bachelor Student - [Mercedes-Benz](https://www.mercedes-benz.com/en/)
 - Software Engineering Intern - [Mercedes-Benz](https://www.mercedes-benz.com/en/)
 - Business Intern - [Amazon](https://www.amazon.com)
 - Working Student - [Soluware](https://soluware.de)
