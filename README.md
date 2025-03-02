@@ -1,4 +1,4 @@
-## Hi there, I'm Lukas Kilian! 👋
+## Hi there, I'm Lukas! 👋
 
 I'm currently a Digital Business student at the Ravensburg-Weingarten University, driven by combining technology and business to improve the lives of as many people as possible.
 
