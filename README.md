@@ -6,8 +6,6 @@ I've used my skills in the health and fitness space to develop mealie, a user-dr
 
 Feel free to explore my previous work or message me to chat about mealie!
 
-Check out my website at [ludaki.com](https://www.ludaki.com) to learn more about what I'm currently working on.
-
 ### Experience
 
 - Founder & Developer - mealie
